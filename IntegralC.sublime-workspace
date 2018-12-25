@@ -1,0 +1,1075 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"Contacts"
+			],
+			[
+				"S",
+				"StyleSheet"
+			],
+			[
+				"for",
+				"from"
+			],
+			[
+				"conta",
+				"Contacts"
+			],
+			[
+				"nav",
+				"navigationOptions"
+			],
+			[
+				"Te",
+				"Test"
+			],
+			[
+				"Rea",
+				"React"
+			],
+			[
+				"create",
+				"createAppContainer"
+			],
+			[
+				"re",
+				"React"
+			],
+			[
+				"styl",
+				"styles"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"icon",
+				"iconName"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"com",
+				"Component"
+			],
+			[
+				"bac",
+				"black"
+			],
+			[
+				"App",
+				"AppNavigator"
+			],
+			[
+				"Sele",
+				"select"
+			],
+			[
+				"set",
+				"setState"
+			],
+			[
+				"na",
+				"NavItem"
+			],
+			[
+				"Na",
+				"NavBar"
+			],
+			[
+				"s",
+				"setSelectedTab"
+			],
+			[
+				"po",
+				"props"
+			],
+			[
+				"Nav",
+				"NavItem"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"ex",
+				"extends"
+			],
+			[
+				"t",
+				"txt"
+			],
+			[
+				"ba",
+				"Banana"
+			],
+			[
+				"p",
+				"pic"
+			],
+			[
+				"red",
+				"render"
+			],
+			[
+				"Ta",
+				"TabBarIOS"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"Pres",
+				"Pressed"
+			],
+			[
+				"Pre",
+				"Press"
+			],
+			[
+				"pre",
+				"Pressed"
+			],
+			[
+				"Pro",
+				"ProfileScreen"
+			],
+			[
+				"Ho",
+				"HomeScreen"
+			],
+			[
+				"al",
+				"alignB"
+			],
+			[
+				"sub",
+				"subst"
+			],
+			[
+				"del",
+				"delet"
+			],
+			[
+				"ins",
+				"inser"
+			],
+			[
+				"seq",
+				"seqA"
+			],
+			[
+				"Rule",
+				"Rules"
+			],
+			[
+				"comm",
+				"commitList"
+			],
+			[
+				"ht",
+				"htmlForCommits"
+			],
+			[
+				"tabl",
+				"tableContent"
+			],
+			[
+				"c",
+				"commitList"
+			],
+			[
+				"sta",
+				"getState"
+			],
+			[
+				"commit",
+				"commitList"
+			],
+			[
+				"y",
+				"ytest"
+			],
+			[
+				"m",
+				"mnist"
+			],
+			[
+				"as",
+				"astype"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"lab",
+				"labels"
+			],
+			[
+				"la",
+				"labels"
+			],
+			[
+				"expo",
+				"expoRec"
+			],
+			[
+				"Wo",
+				"word-wrap\tproperty"
+			],
+			[
+				"key",
+				"keyword"
+			],
+			[
+				"cl",
+				"closeDisplay"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"cn",
+				"console"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"Cl",
+				"classList"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"inne",
+				"innerHTML"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"bo",
+				"box-shadow\tproperty"
+			],
+			[
+				"ca",
+				"chambres"
+			],
+			[
+				"l",
+				"l1"
+			],
+			[
+				"octave",
+				"OctaveML"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"fa",
+				"fab"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"fl",
+				"flex-start\tjustify-content"
+			],
+			[
+				"chi",
+				"child"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"sa",
+				"status"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"i",
+				"int"
+			],
+			[
+				"St",
+				"stop"
+			],
+			[
+				"len",
+				"lenMerged"
+			],
+			[
+				"le",
+				"lenMerged"
+			],
+			[
+				"mer",
+				"merged"
+			],
+			[
+				"o",
+				"okI"
+			],
+			[
+				"ok",
+				"okJ"
+			],
+			[
+				"b",
+				"break"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"reve",
+				"reversed"
+			],
+			[
+				"rever",
+				"reversible"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"fai",
+				"fairCondition"
+			],
+			[
+				"merge",
+				"mergeSort"
+			],
+			[
+				"vote",
+				"voteForB"
+			],
+			[
+				"ti",
+				"this"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"wl",
+				"walkBack"
+			],
+			[
+				"Ca",
+				"cary"
+			],
+			[
+				"car",
+				"carToBlit"
+			],
+			[
+				"boit",
+				"BOITE1"
+			],
+			[
+				"dra",
+				"drawImage"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"di",
+				"diry"
+			],
+			[
+				"dir",
+				"dirx"
+			],
+			[
+				"ma",
+				"Math"
+			],
+			[
+				"stroke",
+				"strokeText"
+			],
+			[
+				"ke",
+				"keyboard"
+			],
+			[
+				"ce",
+				"cellHeight"
+			],
+			[
+				"draw",
+				"drawImage"
+			],
+			[
+				"fil",
+				"fillCircle"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wal",
+				"walkBack"
+			],
+			[
+				"is",
+				"isFree"
+			],
+			[
+				"iso",
+				"isoy"
+			],
+			[
+				"nex",
+				"nextY"
+			],
+			[
+				"next",
+				"nextX"
+			],
+			[
+				"ne",
+				"nextY"
+			],
+			[
+				"C",
+				"CUBE2"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pop",
+				"population"
+			],
+			[
+				"rad",
+				"randint"
+			],
+			[
+				"generate",
+				"generateFileFrom"
+			],
+			[
+				"file",
+				"fileIndex"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					""
+				],
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					"Re-run sketch"
+				],
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					"Run sketch (Processing 3 only)"
+				],
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					"Run sketch fullscreen"
+				],
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					"Export sketch as application"
+				],
+				[
+					"Packages/Processing/Build Systems/Processing.sublime-build",
+					"Kill running sketches"
+				],
+				[
+					"Packages/User/ocaml.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Processing/Build Systems/Processing.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/ocaml.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/ShellScript/ShellScript.sublime-build",
+					""
+				],
+				[
+					"Packages/User/ocaml.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/ShellScript/ShellScript.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/ocaml.sublime-build",
+					""
+				],
+				[
+					"Packages/User/untitled.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/ocaml.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set n",
+				"Set Syntax: NPM JSON"
+			],
+			[
+				"buil",
+				"Build: New Build System"
+			],
+			[
+				"Mard",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mardow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"commen",
+				"Toggle Block Comment"
+			],
+			[
+				"run",
+				"Build With: Processing - Kill running sketches"
+			],
+			[
+				"proce",
+				"Build With: Processing - Run sketch (Processing 3 only)"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"Setting",
+				"Preferences: Settings"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"La",
+				"LaTeXTools: Check system"
+			],
+			[
+				"lat",
+				"LaTeXTools: Check system"
+			],
+			[
+				"packain",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color Picker: Insert Color"
+			],
+			[
+				"Key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"mater",
+				"Activate Materialize Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/arthur/Documents/github/IntegralC"
+	],
+	"file_history":
+	[
+		"/Users/arthur/Documents/github/coralRef/screens/contacts.js",
+		"/Users/arthur/Documents/github/coralRef/screens/profile.js",
+		"/Users/arthur/Documents/github/coralRef/screens/shop.js",
+		"/Users/arthur/Documents/github/coralRef/App.js",
+		"/Users/arthur/Downloads/devenir-etudiant_modele-de-rapport/rapport.tex",
+		"/Users/arthur/Documents/github/coralRef/styles.js",
+		"/Users/arthur/Documents/github/coralRef/components/shop.js",
+		"/Users/arthur/Documents/github/coralRef/node_modules/@react-navigation/core/dist/navigators/createNavigator.js",
+		"/Users/arthur/Documents/github/coralRef/components/navBar.js",
+		"/Users/arthur/Documents/github/coralRef/package.json",
+		"/Users/arthur/Documents/github/coralRef/.eslintrc.json",
+		"/Users/arthur/Documents/code/python/rooms.py",
+		"/Users/arthur/Documents/github/coralRef/gulpfile.js",
+		"/Users/arthur/Documents/github/coralRef/README.md",
+		"/Users/arthur/Documents/code/.eslintrc",
+		"/Users/arthur/Documents/github/coralRef/.gitignore",
+		"/Users/arthur/Documents/github/coralRef/node_modules/async-limiter/coverage/lcov-report/base.css",
+		"/Users/arthur/Documents/code/learnReactNative/HelloWorld/screens/HomeScreen.js",
+		"/Users/arthur/Documents/code/python/multiplicite.py",
+		"/Users/arthur/Documents/code/python/align.py",
+		"/Users/arthur/Documents/code/python/segment.py",
+		"/Users/arthur/Documents/code/python/segment2.py",
+		"/Users/arthur/Documents/code/JamComput/index.html",
+		"/Users/arthur/Documents/code/JamComput/scripts/main2.js",
+		"/Users/arthur/Documents/code/python/bezout.py",
+		"/Users/arthur/Documents/code/python/exporapide.py",
+		"/Users/arthur/Documents/code/python/robot4.py",
+		"/Users/arthur/Documents/github/client/js/getCommit.js",
+		"/Users/arthur/Documents/github/client/package.json",
+		"/Users/arthur/Documents/code/python/HelloDeep/testKeras.py",
+		"/Users/arthur/Documents/code/python/HelloDeep/main.py",
+		"/Users/arthur/Documents/code/python/HelloDeep/main2.py",
+		"/Users/arthur/Documents/code/keras/data.csv",
+		"/Users/arthur/Documents/code/python/HelloDeep/convert.py",
+		"/Users/arthur/Documents/code/keras/main.py",
+		"/Users/arthur/Documents/code/keras/main2.py",
+		"/Users/arthur/sol1.txt",
+		"/Users/arthur/Documents/code/python/racineComplex.py",
+		"/Users/arthur/Documents/code/python/trace.py",
+		"/Users/arthur/Documents/code/python/robotDM3.py",
+		"/Users/arthur/Documents/code/python/oppose.py",
+		"/Users/arthur/Documents/code/ocaml/num.ml",
+		"/Users/arthur/Documents/github/jdrprod.github.io/projects/robots.html",
+		"/Users/arthur/Documents/github/jdrprod.github.io/projects/minidna.html",
+		"/Users/arthur/Documents/code/python/Bzout/bezout.py",
+		"/Users/arthur/Documents/code/python/fact.py",
+		"/Users/arthur/Documents/github/jdrprod.github.io/index.html",
+		"/Users/arthur/Documents/code/python/Bzout/run.sh",
+		"/Users/arthur/Documents/code/python/Bzout/input.txt",
+		"/Users/arthur/Documents/github/jdrprod.github.io/projects/miniblock.html",
+		"/Users/arthur/Documents/github/jdrprod.github.io/projects/spacepirate.html",
+		"/Users/arthur/Documents/github/jdrprod.github.io/css/index.css",
+		"/Users/arthur/Documents/github/jdrprod.github.io/run.py",
+		"/Users/arthur/Documents/github/jdrprod.github.io/testServer.py",
+		"/Users/arthur/Documents/github/jdrprod.github.io/js/main.js",
+		"/Users/arthur/Documents/github/jdrprod.github.io/projects/test.html",
+		"/Users/arthur/Documents/github/jdrprod.github.io/projects/minidna.json",
+		"/Users/arthur/Documents/github/jdrprod.github.io/projects/aggraar.json",
+		"/Users/arthur/Documents/github/jdrprod.github.io/projects/robots.json",
+		"/Users/arthur/Documents/github/jdrprod.github.io/projects/miniblock.json",
+		"/Users/arthur/Documents/github/jdrprod.github.io/test.json",
+		"/Users/arthur/Documents/code/python/hotel.py",
+		"/Users/arthur/Documents/code/python/mltIndex.py",
+		"/Users/arthur/Documents/github/client/index.html",
+		"/Users/arthur/Documents/github/client/js/app.js",
+		"/Users/arthur/Documents/expExo.md",
+		"/Users/arthur/Documents/TP3.py",
+		"/Users/arthur/Documents/wcps/day2/exoC.py",
+		"/Users/arthur/Documents/wcps/day2/mergeSort.c",
+		"/Users/arthur/Documents/wcps/day2/read.c",
+		"/Users/arthur/Documents/wcps/day2/exoB.py",
+		"/Users/arthur/Documents/wcps/day1/mergeSort.py",
+		"/Users/arthur/Documents/wcps/day2/exoA.py",
+		"/Users/arthur/Documents/wcps/day1/exoA.py",
+		"/Users/arthur/Documents/wcps/day1/exoB.py",
+		"/Users/arthur/Documents/code/JamComput/scripts/main.js",
+		"/Users/arthur/Documents/expoRapide.py",
+		"/Users/arthur/Documents/code/JamComput/map en code.txt",
+		"/Users/arthur/Documents/code/JamComput/scripts/animator.js",
+		"/Users/arthur/Documents/code/JamComput/scripts/save.js",
+		"/Users/arthur/Documents/code/JamComput/style.css",
+		"/Users/arthur/Documents/code/JamComput/JamComput.pde",
+		"/Users/arthur/Documents/github/ai_play_bass/src/player/__init__.py",
+		"/Users/arthur/Documents/github/ai_play_bass/src/test.txt",
+		"/Users/arthur/Documents/github/ai_play_bass/src/main.py",
+		"/Users/arthur/Documents/github/ai_play_bass/src/genetic/__init__.py",
+		"/Users/arthur/Documents/github/ai_play_bass/src/data.json",
+		"/Users/arthur/Documents/github/ai_play_bass/music.wav",
+		"/Users/arthur/Documents/github/ai_play_bass/src/score/__init__.py",
+		"/Users/arthur/Documents/github/ai_play_bass/Makefile",
+		"/Users/arthur/Documents/github/ai_play_bass/requirements.txt",
+		"/Users/arthur/Documents/code/lou/module.py",
+		"/Users/arthur/Documents/code/lou/main.py",
+		"/Users/arthur/Documents/code/lou/monModule",
+		"/Users/arthur/Documents/github/Welcome/chap_2_code.md",
+		"/Users/arthur/Documents/github/Welcome/README.md",
+		"/Users/arthur/Documents/github/Welcome/chap_1_terminal.md",
+		"/Users/arthur/Documents/github/solve.it/tests/test_physic.py",
+		"/Users/arthur/Documents/github/solve.it/src/solveit/physic.py",
+		"/Users/arthur/Documents/github/solve.it/Makefile",
+		"/Users/arthur/Documents/github/solve.it/test.py",
+		"/Users/arthur/Documents/github/solve.it/setup.py",
+		"/Users/arthur/Documents/github/solve.it/src/__init__.py",
+		"/Users/arthur/Documents/github/miniDna/setup.py",
+		"/Users/arthur/Documents/github/Verify/src/verify/testing.py",
+		"/Users/arthur/Documents/github/geometrix/src/geometrix.py",
+		"/Users/arthur/Documents/github/geometrix/geometrix.py",
+		"/Users/arthur/Documents/prime.py",
+		"/Users/arthur/Documents/github/JB-summer-2018/index.php",
+		"/Users/arthur/Documents/github/JB-summer-2018/styles/main.css",
+		"/Users/arthur/Documents/github/genalog/src/test/test.py",
+		"/Users/arthur/Documents/github/genalog/src/main.py",
+		"/Users/arthur/Documents/code/genealog/main.py",
+		"/Users/arthur/Documents/github/SpaceExplorer/script/player.js",
+		"/Users/arthur/Documents/github/SpaceExplorer/script/main.js",
+		"/Users/arthur/Documents/github/SpaceExplorer/index.html",
+		"/Users/arthur/Documents/github/TruthCombination/main.py",
+		"/Users/arthur/Documents/github/TruthCombination/__init__.py",
+		"/Users/arthur/Documents/code/python/assert/main.py",
+		"/Users/arthur/Documents/code/python/assert/truthTree.py",
+		"/Users/arthur/Documents/github/Verify/src/verify/core.py",
+		"/Users/arthur/Documents/github/miniDna/verify.json",
+		"/Users/arthur/Library/Application Support/minecraft/shaderpacks/chocapic/block.properties",
+		"/Users/arthur/Documents/github/Verify/src/verify/__init__.py",
+		"/Users/arthur/Documents/github/Verify/docs/doc_fr.md",
+		"/Users/arthur/Documents/github/Verify/docs/doc_en.md",
+		"/Users/arthur/Documents/github/Verify/Makefile",
+		"/Users/arthur/Documents/github/Archaea_Bacteria_Eukarya.Bioinfo/scripts/extract.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 167.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 78.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 251.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "IntegralC.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
