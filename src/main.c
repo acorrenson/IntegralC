@@ -29,6 +29,6 @@ int main(int argc, char const *argv[])
     else if (c != 0)
       printf("%dx^%d\n", c, i);
   }
-  
+    
   return 0;
 }
