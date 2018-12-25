@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include <math.h>
+#include "limit_sum.h"
 
 int main(int argc, char const *argv[])
 {
@@ -10,25 +10,40 @@ int main(int argc, char const *argv[])
   scanf("%d", &n);
   
   // alloc memory to store coefs
-  int *coefs = malloc(n*sizeof(int));
+  int *coefs = malloc((n+1)*sizeof(int));
 
   // input coefs
-  for (int i = 0; i < n; ++i) {
+  for (int i = 0; i < n+1; ++i) {
     printf("coefficient %d :\n", i);
     scanf("%d", coefs+i);
   }
 
+  // display the polynomial in the console
   printf("Your polynomial is :\n");
 
-  for (int i = 0; i < n; ++i) {
+  for (int i = 0; i < n+1; ++i) {
     int c = coefs[i];
     if (i == 0 && c != 0)
       printf("%d + ", c);
-    else if (i < n-1 && c != 0)
+    else if (i < n && c != 0)
       printf("%dx^%d + ", c, i);
     else if (c != 0)
       printf("%dx^%d\n", c, i);
   }
-    
+
+
+  float a; // lower limit
+  float b; // upper limit
+
+  printf("lower limit\n");
+  scanf("%f", &a);
+  
+  printf("upper limit\n");
+  scanf("%f", &b);
+
+  // print the result
+  printf("Integral from  %.3f to %.3f : %f\n",
+    a, b, limit_sum_inf(coefs, n+1, a, b));
+
   return 0;
 }
