@@ -10,4 +10,10 @@ limit_sum.o: limit_sum.c
 	gcc -c limit_sum.c
 
 eval.o: eval.c
-	gcc -c eval.c	
+	gcc -c eval.c
+
+clean:
+	rm -rf *.o
+
+reset: clean
+	rm -rf integral
