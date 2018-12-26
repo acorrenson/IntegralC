@@ -1,6 +1,7 @@
 #ifndef HEADER_FILE
 #define HEADER_FILE
 
-float eval(int *c, int n, float x);
+double eval(int *c, int n, double x);
+long double evall(int *c, int n, long double x);
 
 #endif

@@ -1,13 +1,16 @@
-all: copy reset
+all: test
 
 # copy executable in the root folder
-copy: integral
+integral: src/integral
 	cp src/integral ./integral
 
 # create the executable
-integral:
+src/integral:
 	make -C src/
 
 # remove useless files
 reset:
 	make -C src/ reset
+
+test: integral
+	./integral < input_test.txt
