@@ -1,4 +1,8 @@
-all: test
+all: runtest
+
+# perform all tests
+runtest: src/integral integral
+	./test
 
 # copy executable in the root folder
 integral: src/integral
@@ -12,5 +16,3 @@ src/integral:
 reset:
 	make -C src/ reset
 
-test: integral
-	./integral < input_test.txt

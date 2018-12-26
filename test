@@ -1,0 +1,38 @@
+#!/bin/sh
+
+err_name () {
+  echo "./tests/$(basename "$1" .txt)_error.txt"
+}
+
+out_name () {
+  echo "./tests/$(basename "$1" .txt)_out.txt"
+}
+
+red () {
+  echo "\033[31m$1 \033[0m"
+}
+
+green () {
+  echo "\033[32m$1 \033[0m"
+}
+
+echo "\n Runing tests in ./tests folder ...\n"
+i=0
+
+# iterate over test files
+for filename in ./tests/*_test.txt; do
+  let i++
+  # run test
+  ./integral < "$filename" \
+  2> $(err_name $filename) \
+  1> $(out_name $filename)
+
+  if [ $? -eq 0 ]; then
+    echo "$(green $filename) => no error"
+    $(rm -rf $(err_name $filename))
+  else
+    echo "$(red $filename) => error. Read log at $(err_name $filename)"
+  fi
+done
+
+echo "\n $i test(s) done ! \n"

@@ -8,6 +8,11 @@ int main(int argc, char const *argv[])
   int n = 0;
   printf("Enter the degree of the polynomial :\n");
   scanf("%d", &n);
+
+  if (n < 0) {
+    fprintf(stderr, "[error] Unable to evaluate negative degrees\n");
+    return 1;
+  }
   
   // alloc memory to store coefs
   int *coefs = malloc((n+1)*sizeof(int));
