@@ -2,7 +2,7 @@ all: runtest
 
 # perform all tests
 runtest: src/integral integral
-	./test
+	test_it
 
 # copy executable in the root folder
 integral: src/integral

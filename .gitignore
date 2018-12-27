@@ -1,3 +1,4 @@
 integral
 *.o
 *.sublimte-project
+*.DS_Store
